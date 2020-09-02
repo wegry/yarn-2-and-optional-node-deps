@@ -1,0 +1,10 @@
+{
+  "name": "node-test",
+  "dependencies": {
+    "webpack": "next",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}
